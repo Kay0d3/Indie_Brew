@@ -149,7 +149,7 @@ form h2{
         }
                 form {
                     width: 500px;
-                    margin: 10px auto;
+                    margin: 40px auto;
                     height: 570px;
                 }
 }
@@ -170,7 +170,7 @@ form h2{
     
          form {
              width: 400px;
-             margin: 35px auto;
+             margin: 40px auto;
              height: 550px;
          }
 }
@@ -188,7 +188,7 @@ form h2{
     
         form {
             width: 320px;
-            margin: 35px auto;
+            margin: 40px auto;
             height: 550px;
             border-radius: 10px;
         }
