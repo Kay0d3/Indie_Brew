@@ -372,7 +372,7 @@ margin: auto;
         }
         #close-btn{
             float: right;
-            margin: 2rem;
+            margin: 2.5rem;
             display: block;
         }
         ul{
@@ -396,7 +396,7 @@ margin: auto;
         top: 0;
         right: 0;
         background-color: white;
-        width: 50%;
+        width: 60%;
         height: 100vh;
         z-index: 999;
         text-transform: uppercase;
@@ -541,10 +541,11 @@ main, .section-one, .section-two {
         width: 300px;
     }
            header {
-          width: 320px;
+          width: 310px;
           margin: auto;
           }
+                        .nav-links .thirdnav_link_two {
+                            padding: 5px 5px;
+                            width: 85%;
+                        }
 }
-
-/* what does it mean to use margin auto *
-make use of max-width, my space is not allocated properly/ */
